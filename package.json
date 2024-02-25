@@ -1,25 +1,36 @@
 {
-  "name": "nodejs",
-  "version": "1.0.0",
-  "description": "",
+  "name": "qmbae",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js > log.txt"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "dekkeng",
+  "license": "MIT",
   "dependencies": {
+    "@bishopper/testrun": "^1.0.0",
     "@types/node": "^18.0.6",
     "api": "^6.1.1",
     "axios": "^1.6.2",
+    "buakontea": "^1.0.0",
     "discord.js": "^14.7.1",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "moment": "^2.29.4",
     "moment-timezone": "^0.5.41",
     "node-fetch": "^3.2.6",
-    "wallet-forgot-part-seed": "^1.0.0"
-  }
+    "wallet-forgot-part-seed": "^1.0.0",
+    "winkteahellotest": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dekkeng/qmbae.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dekkeng/qmbae/issues"
+  },
+  "homepage": "https://github.com/dekkeng/qmbae#readme",
+  "description": ""
 }
