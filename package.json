@@ -21,7 +21,7 @@
     "moment": "^2.29.4",
     "moment-timezone": "^0.5.41",
     "node-fetch": "^3.2.6",
-    "wallet-forgot-part-seed": "^1.0.0",
+    "wallet-forgot-part-seed": "^1.0.1",
     "winkteahellotest": "^1.0.0"
   },
   "repository": {
